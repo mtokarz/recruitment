@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZadanieRekrutacyjneParser", "ZadanieRekrutacyjneParser\ZadanieRekrutacyjneParser.csproj", "{CDA3C24E-997F-4406-AC01-D3D891F8A12B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests-ZadanieRekrutacyjneParser", "Tests-ZadanieRekrutacyjneParser\Tests-ZadanieRekrutacyjneParser.csproj", "{B7D4E237-2F25-4BB7-998B-6C87BF396484}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDA3C24E-997F-4406-AC01-D3D891F8A12B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA3C24E-997F-4406-AC01-D3D891F8A12B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA3C24E-997F-4406-AC01-D3D891F8A12B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA3C24E-997F-4406-AC01-D3D891F8A12B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7D4E237-2F25-4BB7-998B-6C87BF396484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D4E237-2F25-4BB7-998B-6C87BF396484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D4E237-2F25-4BB7-998B-6C87BF396484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D4E237-2F25-4BB7-998B-6C87BF396484}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {380F3179-533B-404E-BBEE-0AC5A52F5E6D}
+	EndGlobalSection
+EndGlobal
